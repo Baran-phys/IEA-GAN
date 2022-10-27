@@ -1,0 +1,12 @@
+boost-histogram
+clean-fid
+numpy
+matplotlib
+opencv-python
+pandas
+seaborn
+timm
+tensorflow
+torch
+torchvision
+tqdm
