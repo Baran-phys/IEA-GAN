@@ -1,4 +1,4 @@
-# Intra-Event Aware GAN (IEA-GAN) with Relational Reasoning for Efficient High-Resolution Detector Simulation
+# IEA-GAN: Intra-Event Aware GAN with Relational Reasoning for Efficient High-Resolution Detector Simulation
 
 ### Training
 Required arguments:
