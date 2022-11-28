@@ -5,7 +5,7 @@ Required arguments:
 - --outputroot: Path to the root folder where the run folder is created.
 - --dataroot: Path to the dataset.
 - --run-name (default: `"default"`): Subfolder name in `outputroot` directory where samples, weights and logs are stored.
-## Sample Usage
+### Sample Usage
 ```
 $ python3 train.py --dataroot ./data_5k --outputroot ./runs --run-name BGD11
 ```
